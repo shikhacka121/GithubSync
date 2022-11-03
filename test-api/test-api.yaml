@@ -6,6 +6,9 @@
     "version" : "1.2.1"
   },
   "servers" : [ {
+    "url" : "https://virtserver.dev.swaggerhub.com/ABC_Enterprise/test-28-10-new/1.2.1",
+    "description" : "SwaggerHub API Auto Mocking"
+  }, {
     "url" : "https://virtserver.dev.swaggerhub.com/ABC_Enterprise/test-28-10/1.2.1",
     "description" : "SwaggerHub API Auto Mocking"
   }, {
